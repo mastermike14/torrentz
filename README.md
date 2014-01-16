@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Torrentz
 
 Torrentz is a ruby gem that uses the powerful results from torrentz.eu to
@@ -22,3 +23,9 @@ It will try to always return a magnet and a torrent, iterating from all the resu
 that torrentz.eu gives.
 
 For now, magnets come from piratebay, and torrent files from vertor.
+=======
+torrentz
+========
+
+torrentz
+>>>>>>> ab763774e896c8a6c40f8b443d70ccd46e30af29
